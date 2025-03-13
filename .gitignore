@@ -1,7 +1,11 @@
+# Ignora l'ambiente virtuale
 venv/
+
+# Ignora cache Python
 __pycache__/
+
+# Ignora file di log e di sistema
 *.log
 .DS_Store
+
 venv/
-venv/Lib/site-packages/tensorflow/
-venv/Lib/site-packages/clang/
